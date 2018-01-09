@@ -1,1 +1,1 @@
-FROM gcr.io/google_containers/k8s-dns-sidecar-amd64:1.14.5
+FROM gcr.io/k8s-minikube/storage-provisioner:v1.8.1
